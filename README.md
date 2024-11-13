@@ -1,6 +1,5 @@
 <html>
 <head>
-	<title>BIODATA DIRI BINTANG</title>
 </head>
 <body>
 	<h1 align="center">BIODATA DIRI</h1>
